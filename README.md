@@ -1,2 +1,3 @@
 # my-first-repo
-first repo
+Jean
+This repository has a cute hedgehog.
